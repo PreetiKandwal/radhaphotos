@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <title>Radha Photos</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        
+        <link rel="stylesheet" type="text/css" href="bg.css" />
+        <link rel="stylesheet" type="text/css" href="master.css" />
+<style>
+.zoomin img { 
+	border: 5px solid #602727; 
+	height: 10																																																																																																																																																																																																																	%; 
+	width: 35%;
+	float: left;
+	margin: 10px; 
+	-webkit-transition: all 2s ease; 
+	-moz-transition: all 2s ease; -m
+	s-transition: all 2s ease; 
+	transition: all 2s ease; 
+}
+
+.zoomin img:hover { 
+	border: none;
+	width: 100%; 
+	height: 100%; 
+} 
+
+</style>
+    </head>
+    <body id="body">
+    
+	<div class="container">
+           
+            <div class="set-top">
+				
+ 		<span class="left"> 
+			<img class="img" src="images/Logo/blackbg.jpeg">	
+		</span>
+			        
+		<span class="right">
+                    <a  href="myindex.html" >Home</a>
+                    <a href="aboutus.html" >About Us</a>
+                    <a href="#photogallery.html" style="text-decoration: overline" >Photo Gallery</a>
+		    <a href="#" >Clients</a>
+       		    <a href="#" >Testimonials</a>
+		    <a href="#" >Contact Us</a>
+                        
+                 </span>
+                <div class="clr"></div>
+            </div>
+            
+              <!--<div class="aboutText"><img src="images/Logo/rwhitebg.jpeg"><p>We are a Jaipur based company.</p></div>  -->
+
+		
+			<div class="zoomin">
+    				<img src="images/orpics/ra1.jpg" alt="Photo" width= 5760px height= 3840px>  
+			</div>		
+		
+				
+            
+
+	   
+        
+<footer>Copyright &copy Radha Photos | 2016</footer>
+    </body>
+</html>

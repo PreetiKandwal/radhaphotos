@@ -1,0 +1,27 @@
+.ulmenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.ulli {
+    float: right;
+    width: 100%;
+}
+
+a:link, a:visited {
+    display: inline;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: transparent;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color: grey; 
+}
+

@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <title>Radha Photos</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        
+        <link rel="stylesheet" type="text/css" href="bg.css" />
+        <link rel="stylesheet" type="text/css" href="master.css" />
+    </head>
+    <body id="body">
+    
+	<div class="container">
+           
+            <div class="set-top">
+				
+ 		<span class="left"> 
+			<img class="img" src="images/Logo/blackbg.jpeg">	
+		</span>
+			        
+		<span class="right">
+                    <a  href="myindex.html" >Home</a>
+                    <a href="aboutus.html" style="text-decoration: overline" >About Us</a>
+                    <a href="#" >Photo Gallery</a>
+		    <a href="#" >Clients</a>
+       		    <a href="#" >Testimonials</a>
+		    <a href="#" >Contact Us</a>
+                        
+                 </span>
+                <div class="clr"></div>
+            </div>
+            
+              <!--<div class="aboutText"><img src="images/Logo/rwhitebg.jpeg"><p>We are a Jaipur based company.</p></div>  -->
+
+		<div class="center">
+		
+			<img src="images/Logo/blackbg.jpeg">
+			<p class ="text" style="color: grey; font-size: 20px">We are based out of Jaipur. Wedding photography, birthday celebrations and candid photography are some of our specialisation. We have recently ventured into pre-wedding shoot. Our clients are not only from Rajasthan but also from different states of the country. We are a team of skilled members who have a passion for their work. Equipped with latest technology we ensure that we capture some of the best memories of your lives which you can cherish forever...like it happened yesterday!!</p>
+		</div>
+				
+            </div>
+
+	   
+        
+<footer>Copyright &copy Radha Photos | 2016</footer>
+    </body>
+</html>
